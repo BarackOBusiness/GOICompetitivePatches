@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 namespace CompetitivePatches
 {
-    [BepInPlugin("goi.ext.competitivepatches", "Competitive Patches", "0.1.0")]
+    [BepInPlugin("goi.core.competitivepatches", "Competitive Patches", "0.1.1")]
     public class Plugin : BaseUnityPlugin
     {
         private void Awake()
